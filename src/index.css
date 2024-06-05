@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Lexend+Exa:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    color-scheme: dark;
+    color: #000;
+}
+
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    user-select: none;
+}
+
+p {
+    cursor: default;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
